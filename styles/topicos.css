@@ -1,8 +1,7 @@
 .tópicos {
     background: var(--azul-degrade);
     text-align: center;
-    padding: 1em 0 ;
-
+    padding: 1em 0;
 }
 
 .tópicos__titulo {
@@ -26,7 +25,6 @@
     padding: 1em;
     background-color: var(--laranja);
     text-decoration: none;
+    font-size: 14px;
     font-weight: 700;
-
 }
-
