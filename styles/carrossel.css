@@ -78,12 +78,12 @@
         font-size: 26px;
     }
 
-    swiper-pagination {
+    .swiper-pagination {
         margin: 2em 0 3em 0;
     }
 
     .swiper {
-        width: 60%
+        width: 60%;
     }
 
     .swiper-button-prev,
@@ -91,12 +91,11 @@
         display: block;
         top: 60%;
     }
-    
+
     .card {
         width: 40%;
         margin: 2em auto;
     }
-
 }
 
 @media screen and (min-width: 1728px) {
@@ -104,7 +103,6 @@
         display: flex;
         margin: 0 20vw 3em 20vw;
         align-items: center;
-
     }
 
     .swiper-pagination {
@@ -120,8 +118,7 @@
     }
 
     .descrição__texto {
-       font-size: 16px;
-      
+        font-size: 16px;
     }
 
     .descrição {
